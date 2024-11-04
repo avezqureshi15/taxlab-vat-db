@@ -1,0 +1,108 @@
+{
+    "Invoice Details": {
+        "UUID": "123e4567-e89b-12d3-a456-426614174000",
+        "ProfileID": "UAE-VAT12345",
+        "ID": "INV-001",
+        "IssueTime": "2024-10-01 10:00:00",
+        "InvoiceTypeCode": "Tax Invoice",
+        "DocumentCurrencyCode": "AED",
+        "TaxCurrencyCode": "AED",
+        "AdditionalDocumentReference": "INV-REF-439",
+        "TaxCategoryID": null,
+        "TaxCategoryPercent": null,
+        "TaxCategoryTaxScheme": "VAT"
+    },
+    "VAT on Sales and all other Outputs": {
+        "1a_Standard_rated_supplies_in_Abu_Dhabi": {
+            "Amount_AED": 49948,
+            "VAT_Amount_AED": 2942,
+            "Adjustment_Amount_AED": 0
+        },
+        "1b_Standard_rated_supplies_in_Dubai": {
+            "Amount_AED": 74504,
+            "VAT_Amount_AED": 3501,
+            "Adjustment_Amount_AED": 0
+        },
+        "1c_Standard_rated_supplies_in_Sharjah": {
+            "Amount_AED": 25110,
+            "VAT_Amount_AED": 1667,
+            "Adjustment_Amount_AED": 0
+        },
+        "1d_Standard_rated_supplies_in_Ajman": {
+            "Amount_AED": 10387,
+            "VAT_Amount_AED": 32,
+            "Adjustment_Amount_AED": 0
+        },
+        "1e_Standard_rated_supplies_in_Umm_Al_Quwain": {
+            "Amount_AED": 8266,
+            "VAT_Amount_AED": 84,
+            "Adjustment_Amount_AED": 0
+        },
+        "1f_Standard_rated_supplies_in_Ras_Al_Khaimah": {
+            "Amount_AED": 14952,
+            "VAT_Amount_AED": 806,
+            "Adjustment_Amount_AED": 0
+        },
+        "1g_Standard_rated_supplies_in_Fujairah": {
+            "Amount_AED": 5040,
+            "VAT_Amount_AED": 566,
+            "Adjustment_Amount_AED": 0
+        },
+        "2_Tax_refunds_provided_to_tourists": {
+            "Amount_AED": 0,
+            "VAT_Amount_AED": 0
+        },
+        "3_Supplies_subject_to_reverse_charge_provisions": {
+            "Amount_AED": 20148,
+            "VAT_Amount_AED": 0
+        },
+        "4_Zero_rated_supplies": {
+            "Amount_AED": 11885
+        },
+        "5_Exempt_supplies": {
+            "Amount_AED": 6313
+        },
+        "6_Goods_imported_into_the_UAE": {
+            "Amount_AED": 29858,
+            "VAT_Amount_AED": 1730
+        },
+        "7_Adjustments_to_goods_imported_into_the_UAE": {
+            "Amount_AED": 0,
+            "VAT_Amount_AED": 0
+        },
+        "8_Totals": {
+            "Amount_AED": 245554,
+            "VAT_Amount_AED": 10785,
+            "Adjustment_Amount_AED": 0
+        }
+    },
+    "VAT on Expenses and all other Inputs": {
+        "9_Standard_rated_expenses": {
+            "Amount_AED": 39821,
+            "Recoverable_VAT_amount_AED": 1822,
+            "Adjustment_Amount_AED": 0
+        },
+        "10_Supplies_subject_to_reverse_charge_provisions": {
+            "Amount_AED": 14771,
+            "Recoverable_VAT_amount_AED": 1195,
+            "Adjustment_Amount_AED": 0
+        },
+        "11_Totals": {
+            "Amount_AED": 54878,
+            "Recoverable_VAT_amount_AED": 2928,
+            "Adjustment_Amount_AED": 0
+        }
+    },
+    "Net VAT Due": {
+        "12_Total_value_of_due_tax_for_the_period": {
+            "Amount_AED": 10997
+        },
+        "13_Total_Value_of_recoverable_tax_for_the_period": {
+            "Amount_AED": 2915
+        },
+        "14_Payable_tax_for_the_period": {
+            "Amount_AED": 8390
+        }
+    },
+    "Profit Scheme": true
+}
